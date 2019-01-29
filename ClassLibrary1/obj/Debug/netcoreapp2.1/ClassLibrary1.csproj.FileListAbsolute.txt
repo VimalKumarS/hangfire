@@ -1,0 +1,9 @@
+C:\Dexter\Practice\hangfire-api\WebApplication1\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.deps.json
+C:\Dexter\Practice\hangfire-api\WebApplication1\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Dexter\Practice\hangfire-api\WebApplication1\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\Dexter\Practice\hangfire-api\WebApplication1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Dexter\Practice\hangfire-api\WebApplication1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Dexter\Practice\hangfire-api\WebApplication1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfo.cs
+C:\Dexter\Practice\hangfire-api\WebApplication1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Dexter\Practice\hangfire-api\WebApplication1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\Dexter\Practice\hangfire-api\WebApplication1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.csprojAssemblyReference.cache
